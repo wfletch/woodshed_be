@@ -1,0 +1,25 @@
+{
+  "name": "music_schedule",
+  "version": "1.0.0",
+  "description": "Tool Designed to Log Music Practice Time and Group work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfletch/music_schedule.git"
+  },
+  "keywords": [
+    "music",
+    "practice",
+    "statistics",
+    "woodshed"
+  ],
+  "author": "Warren Fletcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfletch/music_schedule/issues"
+  },
+  "homepage": "https://github.com/wfletch/music_schedule#readme"
+}
